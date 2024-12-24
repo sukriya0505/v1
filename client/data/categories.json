@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "title": "Sound Engineer",
+      "image": "https://framerusercontent.com/images/c92CH1MP5YQcMLlMNxrry8Zx28k.jpg?scale-down-to=1024",
+      "slug": "sound-engineer"
+    },
+    {
+      "id": 2,
+      "title": "Graffiti Artist",
+      "image": "https://framerusercontent.com/images/ayDqy4Ht9RkFYXKs91SmwGW7I.png?scale-down-to=512",
+      "slug": "graffiti-artist"
+    },
+    {
+      "id": 3,
+      "title": "3D Artist",
+      "image": "https://framerusercontent.com/images/rQRaaafo3wCP7kxVOIxm8eqwQ.png?scale-down-to=512",
+      "slug": "3d-artist"
+    },
+    {
+      "id": 4,
+      "title": "AI Engineer",
+      "image": "https://framerusercontent.com/images/ardL1oqEQa80dnz8zTjxciJCcY.png?scale-down-to=1024",
+      "slug": "ai-engineer"
+    },
+    {
+      "id": 5,
+      "title": "VR Developer",
+      "image": "https://framerusercontent.com/images/GaMR6ylXJ0WdikU3FJgA4qlczcg.png?scale-down-to=1024",
+      "slug": "vr-developer"
+    },
+    {
+      "id": 6,
+      "title": "Music Producer",
+      "image": "https://framerusercontent.com/images/IjmSQS3tbjHU7KCtwmWxNKhdTqE.png?scale-down-to=1024",
+      "slug": "music-producer"
+    }
+  ]
+}

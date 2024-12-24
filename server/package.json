@@ -1,27 +1,25 @@
 {
-  "name": "boilerplate",
+  "name": "crud-template",
   "version": "1.0.0",
-  "description": "ts-prisma-postgres-express boilerplate",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
   "scripts": {
-    "start": "tsc && node build/index.js",
-    "dev": "nodemon"
+    "start": "nodemon index.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.2",
     "dotenv": "^16.4.5",
-    "jsonwebtoken": "^9.0.2"
-  },
-  "devDependencies": {
-    "@prisma/client": "^5.14.0",
-    "@types/express": "^4.17.21",
-    "@types/node": "^20.12.11",
-    "express": "^4.19.2",
+    "express": "^4.21.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^6.5.0",
+    "mongoose": "^8.3.2",
     "nodemon": "^3.1.0",
-    "prisma": "^5.14.0",
-    "ts-node": "^10.9.2",
-    "typescript": "^5.4.5"
+    "passport": "^0.7.0",
+    "passport-local": "^1.0.0"
   }
 }

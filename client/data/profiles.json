@@ -1,0 +1,34 @@
+{
+  "profiles": [
+    {
+      "id": 1,
+      "name": "Elara Whitmore",
+      "title": "Ceramic Artist",
+      "location": "North Carolina",
+      "rating": 4.8,
+      "price": 200,
+      "priceUnit": "per sculpture",
+      "image": "https://framerusercontent.com/images/c92CH1MP5YQcMLlMNxrry8Zx28k.jpg?scale-down-to=1024"
+    },
+    {
+      "id": 2,
+      "name": "Ivy Callahan",
+      "title": "Portrait Photographer",
+      "location": "Texas",
+      "rating": 4.8,
+      "price": 500,
+      "priceUnit": "per session",
+      "image": "https://framerusercontent.com/images/ayDqy4Ht9RkFYXKs91SmwGW7I.png?scale-down-to=512"
+    },
+    {
+      "id": 3,
+      "name": "Maya Ellington",
+      "title": "Content Writer",
+      "location": "Colorado",
+      "rating": 4.8,
+      "price": 0.15,
+      "priceUnit": "per word",
+      "image": "https://framerusercontent.com/images/rQRaaafo3wCP7kxVOIxm8eqwQ.png?scale-down-to=512"
+    }
+  ]
+}
